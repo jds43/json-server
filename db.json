@@ -1,13 +1,7 @@
 {
-    "Cities" : [
-        {
-            Name" : "DALLAS"
-        },
-        {
-            "Name" : "FARMERS BRANCH"
-        }
-    ],
-    "LassoProjectID":"2981",
-    "LassoNearestOfficeID":"131879",
-    "State" : "TX"
+  "userId": 1,
+  "id": 1,
+  "name": "john",
+  "title": "delectus aut autem",
+  "completed": false
 }
